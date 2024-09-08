@@ -1,1 +1,1 @@
-# bank-customer-churn
+This code analyzed 10,000 pieces of bank customer information, and used some features to build a model to predict whether customers would churn. Among them, logistic regression model, KNN model, random forest model, SVM model, and decision tree model were established and compared.
